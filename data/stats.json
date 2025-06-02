@@ -1,0 +1,9 @@
+{
+    "totalOfMatches": 3,
+    "victoryPercentage": 0,
+    "handsWinningPercentageStats": {
+        "pierre": 0,
+        "feuille": 0,
+        "ciseaux": 0
+    }
+}

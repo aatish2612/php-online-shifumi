@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2025-05-26 13:39:11",
+        "userHand": "feuille",
+        "cpuHand": "ciseaux",
+        "result": "LOST"
+    },
+    {
+        "date": "2025-05-26 13:39:14",
+        "userHand": "pierre",
+        "cpuHand": "feuille",
+        "result": "LOST"
+    },
+    {
+        "date": "2025-05-26 13:39:16",
+        "userHand": "ciseaux",
+        "cpuHand": "ciseaux",
+        "result": "DRAW"
+    }
+]
