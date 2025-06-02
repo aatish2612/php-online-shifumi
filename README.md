@@ -35,6 +35,12 @@ Au vu du succès de votre jeu de shifumi dans le terminal, vous décidez de fair
 
 Les interfaces ainsi que la base de données vous sont déjà fournies.
 
+Vous devez appliquer au mieux les bonnes pratiques de développement suivantes :
+
+- utilisation de fonctions courtes et typées
+- séparation des différents domaines de l'application dans des fichiers dédiés
+- fonctions et variables avec des noms clairs et facilitant la compréhension
+
 ## Installation
 
 Pour installer ce projet, ne créez pas de nouveau repository manuellement. Allez sur la page d'accueil de ce repository, puis cliquez sur ce bouton pour le forker:
