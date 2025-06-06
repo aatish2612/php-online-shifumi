@@ -3,9 +3,9 @@ CREATE DATABASE shifumi;
 USE shifumi;
 
 CREATE TABLE games(
-    id INT PRIMARY KEY,
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     date DATETIME NOT NULL,
     handPlayedByUser VARCHAR(10) NOT NULL,
     handPlayedByCPU VARCHAR(10) NOT NULL,
-    result VARCHAR(4) NOT NULL
+    result VARCHAR(10) NOT NULL
 );
